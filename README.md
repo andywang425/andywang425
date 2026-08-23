@@ -1,3 +1,5 @@
+![Github Stats](https://github-stats-extended.vercel.app/api?username=andywang425&show_icons=true)
+
 <!--
 **andywang425/andywang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Github Stats](https://github-stats-extended.vercel.app/api?username=andywang425&show_icons=true)
 -->
